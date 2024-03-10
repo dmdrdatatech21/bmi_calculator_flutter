@@ -3,11 +3,12 @@
 
 Star⭐ the repo if you like what you see😉.
 
-## 📌 Screens
- 
-[Download Android Apk](https://drive.google.com/uc?export=download&id=12QhDsGA5-g9HoqI6m2eRyPfuCWv_IslA)
-![interface]()
 
+## 📌 Screens
+[![Interfaces](https://i.postimg.cc/7h58b7pX/20240310-114603.jpg)](https://postimg.cc/K3hsHKcg)
+
+## Download Apk
+[Link](https://drive.google.com/uc?export=download&id=12QhDsGA5-g9HoqI6m2eRyPfuCWv_IslA)
 
 ## 🏋️‍♂️ BMI Range 
 
