@@ -5,7 +5,8 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📌 Screens
  
-![BMi Calculator App with Flutter](https://github.com/haithemnini/bmi_calculator_flutter/assets/88515475/1332dc9a-3d4a-4024-8f97-d432a0c202f5)
+[Download Android Apk](https://drive.google.com/uc?export=download&id=12QhDsGA5-g9HoqI6m2eRyPfuCWv_IslA)
+![interface]()
 
 
 ## 🏋️‍♂️ BMI Range 
@@ -24,6 +25,5 @@ Star⭐ the repo if you like what you see😉.
 - 🔄 Real-time BMI calculation.
 - 📊 BMI statistics and trends.
 - 📱 Cross-platform compatibility (iOS and Android).
-- 📝 Personal notes and insights.
 
   Build a modern, user-friendly BMI Calculator App with Flutter! 🚀📱
