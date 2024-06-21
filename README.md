@@ -1,8 +1,6 @@
 # BMi Calculator Flutter 💪
 🏋️‍♂️ User-friendly, sleek design, instant BMI feedback, health monitoring tool. 📱🚀
 
-Star⭐ the repo if you like what you see😉.
-
 
 ## 📌 Screens
 [![Interfaces](https://i.postimg.cc/7h58b7pX/20240310-114603.jpg)](https://postimg.cc/K3hsHKcg)
@@ -28,3 +26,4 @@ Star⭐ the repo if you like what you see😉.
 - 📱 Cross-platform compatibility (iOS and Android).
 
   Build a modern, user-friendly BMI Calculator App with Flutter! 🚀📱
+@vscx7
